@@ -16,6 +16,19 @@ avatar: https://avatars1.githubusercontent.com/u/13072076?s=460&v=4
 # Flags below are optional
 #
 
+# Implemeting the "tag" funcionality
+collections: 
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
