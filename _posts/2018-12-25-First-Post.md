@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First Post and Introduction.
-categories: Other
+categories: 
+  - "Other"
 ---
 
 Dear friends, after procrastinating for two years, I have finally made up my mind to start a blog. As someone who spent most of his childhood in Taiwan, this blog serves as memo to share my findings about everything different between the East Asian island and the fascinating Silicon Valley. In addition to that, I might share some random interests that might or might not be relevant to the topics above.
